@@ -6,9 +6,9 @@ pensize(1)
 color("Purple")
 
 for count in range(360):
-  forward(90)
+  backward(90)
   left(360/1)
-  left(50)
+  left(170)
   
   
 done()
